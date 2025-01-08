@@ -199,7 +199,8 @@ main section{
 }
 
 .footer-colum{
-    width: 600px;
+    width: 500px;
     margin: 0 auto;
+    justify-content: center;
 }
 
